@@ -1,0 +1,7 @@
+Evaluation: frozen greedy, ties go to stick
+Training seed: 42 | Eval seed: 123
+Episodes: 10000
+Mean return: -0.0677
+Win rate: 42.22%
+Draw rate: 8.79%
+Loss rate: 48.99%
